@@ -1,14 +1,9 @@
-//draw_set_halign(fa_center);
-//draw_set_valign(fa_middle);
-
-   
-
-
 if (inventory) {
 	
   var _p = 160;
   var _x = width/2;
   var _y = height/2;
+  //draw inventory background
   draw_rectangle_colour(_x - _p, _y - _p, _x + _p, _y + _p, c_black, c_black, c_black, c_black, false);
   
   for (var i = 0; i < array_length(inv); i++) {
