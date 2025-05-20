@@ -1,4 +1,4 @@
-#UI_Inventory
+# UI_Inventory
 Inventory for Game Maker
 
 Open Inventory Using I or Ctrl
